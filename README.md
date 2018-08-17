@@ -12,4 +12,4 @@ Code:
 * GUI elements using JSwing
 * Structured using MVC 
 
-<img src="https://github.com/dkoenigs/The-Game-Of-Life/blob/master/TheGameOfLife.png?raw=true" width="550" height="550" title="Game of Life">
+<img src="https://github.com/dkoenigs/The-Game-Of-Life/blob/master/TheGameOfLife.png?raw=true" width="650" height="550" title="Game of Life">
