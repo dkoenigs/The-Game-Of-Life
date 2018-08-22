@@ -12,4 +12,7 @@ Code:
 * GUI elements using JSwing
 * Structured using MVC 
 
+Bugs/Fixes:
+* Some cells die even next to a sufficient number of neighbors
+
 <img src="https://github.com/dkoenigs/The-Game-Of-Life/blob/master/TheGameOfLife.png?raw=true" width="650" height="550" title="Game of Life">
